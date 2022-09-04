@@ -7,7 +7,6 @@ package _03JavaVariable;
  * @version: 1.0.0
  */
 
-
 /**
  * 数据类型的概念：
  * 在为变量赋值的时候必须赋予和变量同一种类型的值，否则程序会报错
@@ -64,5 +63,4 @@ public class _02IntegerType {
         h = h + 4;
         System.out.println(h);
     }
-
 }
