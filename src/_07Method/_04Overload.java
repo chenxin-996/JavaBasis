@@ -7,7 +7,7 @@ package _07Method;
  * @version: 1.0.0
  */
 
-public class _04方法的重载 {
+public class _04Overload {
 
     /**
      * 需求：
