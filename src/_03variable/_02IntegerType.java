@@ -3,7 +3,7 @@ package _03variable;
 /**
  * @author: ChenXin
  * @createTime: 2022-09-04 12:06
- * @Description: 变量的基本数据类型——整数类型
+ * @Description: 基本数据类型——整数类型
  * @version: 1.0.0
  */
 
